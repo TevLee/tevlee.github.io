@@ -12,8 +12,8 @@ baseurl: /
 #baseurl: /jasper2/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: 20-2-OSS TevLee
+description: Term project : Pytorch-tutorial
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
