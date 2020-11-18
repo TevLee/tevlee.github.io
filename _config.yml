@@ -13,7 +13,7 @@ baseurl: /
 
 # Website info
 title: 20-2-OSS 
-description: TevLee : Pytorch-tutorial
+description: TevLee's Pytorch-tutorial
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
